@@ -1,0 +1,24 @@
+Create a sample dataset and implement the below Pig commands on the same dataset:-
+
+1)Concat:It is used to concatenate two or more expressions of the same type.
+
+2)Tokenize:It is used to split a string in a single tuple and returns a bag which contains the output of the split operation.
+
+3)Sum:It is used to get the total of the numeric values of a column in a single-column bag. 
+While computing it ignores the NULL values.
+
+4)Max:It is used to calculate the maximum value for a column in a single-column bag. 
+While calculating the maximum value it ignores the NULL values.
+
+5)Min:It is used to calculate the minimum value for a column in a single-column bag. 
+While calculating the minimum value it ignores the NULL values.
+
+6)Limit:It is used to get the limited number of tuples from the relation.
+
+7)Store:It is used to store the loaded data in the file system.
+
+8)Distinct:It is used to remove duplicate tuples from a relation.
+
+9)Flatten:It un-nests tuples as well as bags. 
+
+10)IsEmpty:It is used to check whether the bag or map is empty or not.
